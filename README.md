@@ -2,6 +2,8 @@
 
 CLI-импортёр каталога Wi‑Fi роутеров TP-Link с официальной страницы [tp-link.com/kz](https://www.tp-link.com/kz/home-networking/wifi-router/) в инфоблок Битрикс.
 
+Репозиторий с докер-контейнерами для битрикса - https://github.com/bitrix-tools/env-docker?ysclid=mrdexxqzkm709088279
+
 ## Как развернуть на чистом Битриксе
 
 1. Клонируйте репозиторий в корень сайта (document root).
