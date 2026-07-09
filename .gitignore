@@ -1,0 +1,13 @@
+# Bitrix runtime / local generated
+/local/logs/
+/local/cache/
+/local/vendor/
+
+# IDE
+.idea/
+
+# Nested unrelated repo
+/bitrix_ai_challenge/
+
+# Internal helper
+.hash_check
